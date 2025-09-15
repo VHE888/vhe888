@@ -1,4 +1,4 @@
-## May the clean data be with you🪐
+## May the good data be with you🪐
 
 Hi there, I am Vincent, a bioinformatics analyst passionate about **single-cell data analysis** and **multi-omics data integration**.  
 
