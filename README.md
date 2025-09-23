@@ -1,4 +1,4 @@
-## Here in Boston, beautiful blue skies and golden sunshine, it's 70 degree Fahrenheit.
+## Here in Boston, beautiful blue skies and golden sunshine, it's 70 degrees Fahrenheit.
 
 Hello, I am Vincent, a bioinformatics researcher passionate about **single-cell data analysis** and **AI in biotech**.  
 
