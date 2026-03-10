@@ -1,4 +1,4 @@
-## Here in Boston, beautiful blue skies and golden sunshine, it's 70 degrees Fahrenheit.
+## Hello everyone!
 
 Hello, I am Vincent, a bioinformatics researcher passionate about **single-cell NGS data analysis** and **AI in biology**.  
 
