@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-Hello, I am Vincent, a bioinformatics researcher passionate about **single-cell NGS data analysis** and **AI in biology**.  
+Hello, I am Vincent, a bioinformatician passionate about **single-cell NGS data analysis** and **AI in biology**.  
 
 - I am developing a workflow using ArchR and Monocle3 to discover the **epigenomic landscape of microglial state transitions in Alzheimer’s disease** — see the project [here](https://github.com/BU-BMSIP/MG_AD_scATAC)   
 - Passionate about **AI/ML and data science** — check out my latest DS project on **how community and income influence disease** [here](https://github.com/VHE888/US-Socioeconomic-Cancer-Analysis)  
