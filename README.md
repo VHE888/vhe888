@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-Hello, I am Vincent, a bioinformatician passionate about **NGS data analysis** and **bioinformatics software development**.  
+Hello, I am Vincent, a bioinformatician passionate about **NGS data analysis** and **application development**.  
 
 - I am developing a pipeline using ArchR and Monocle3 to discover the **epigenomic landscape of microglial state transitions in Alzheimer’s disease** — see the project [here](https://github.com/BU-BMSIP/MG_AD_scATAC)  
 
