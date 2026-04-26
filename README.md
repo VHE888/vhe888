@@ -8,4 +8,4 @@ Hello, I am Vincent, a bioinformatician passionate about **NGS data analysis** a
 
 - Passionate about **machine learning and data science** — check out my latest ML modeling project on **how community and income influence disease** [here](https://github.com/VHE888/US-Socioeconomic-Cancer-Analysis)  
 
-- Open to collaborations on **Bioinformatics projects** — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wenshou-he/)  
+- Open to **collaborations** — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wenshou-he/)  
