@@ -1,6 +1,6 @@
 ## Hello everyone!
 
-Hello, I am Vincent, a biomedical researcher passionate about applying **Next-generation Sequencing Technology** in **neurodegenerative research**.  
+Hello, I am Vincent, a biomedical researcher passionate about applying **next-generation sequencing technology** in **neurodegenerative research**.  
 
 - I am developing protocols using single-cell epigenomics to discover the **microglial state transitions in Alzheimer’s disease** — see the project [here](https://github.com/BU-BMSIP/MG_AD_scATAC)
 
