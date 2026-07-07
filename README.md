@@ -9,3 +9,4 @@ Hello, I am Vincent, a biomedical researcher passionate about **next-generation 
 - **Brain Study Portal**, a web application for Alzheimer’s disease research that enables interactive exploration of publications and multi-species NGS datasets through dynamic filtering — view project details [here](https://github.com/VHE888/brain-study-portal)
 
 - Open to **collaborations** — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wenshou-he/)
+
