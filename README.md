@@ -2,7 +2,7 @@
 
 Hello, I am Vincent, a biomedical researcher passionate about **next-generation sequencing technology**.  
 
-- I am summarizing MinKNOW & EPI2ME workflows for **variants detection using Oxford Nanopore** data - see the project [here](https://github.com/VHE888/ONT_Variant_Detection)
+- I am building MinKNOW & EPI2ME workflows for **variants detection using Oxford Nanopore** data - see the project [here](https://github.com/VHE888/ONT_Variant_Detection)
 
 - **MG_AD_scATAC**, a pipeline for single-cell/nucleus ATAC-seq data analysis to discover the epigenomic landscape of microglial state transitions in Alzheimer’s disease — see the project [here](https://github.com/BU-BMSIP/MG_AD_scATAC)
 
